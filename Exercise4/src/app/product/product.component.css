@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 97vh;
+    font-family: sans-serif;
+}
+.product-card{
+    text-align: center;
+}
+.name{
+    font-size: 18pt;
+    color: #048d5d;
+}
